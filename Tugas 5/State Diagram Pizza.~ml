@@ -397,9 +397,9 @@
 <XPD:REF name="Head">XPNMRqr4GE6Qs2pscg+kdgAA</XPD:REF>
 <XPD:REF name="Tail">cfZ07qokQkCS0UAq4YUbLQAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="Q1fT0QBKQE2N1tKGBOg/3wAA">
-<XPD:ATTR name="Alpha" type="real">-4,18911029323123</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">30,0166620396073</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Cek Ketersediaan</XPD:ATTR>
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
 <XPD:REF name="Model">flpZ/JEXsUe8pWvz1GbFqgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="mnL4t3t1hkOCRk/AdD9sJQAA">
@@ -493,9 +493,9 @@
 <XPD:REF name="Head">xKHmI7Yfnk2Wqq2IsEPxlwAA</XPD:REF>
 <XPD:REF name="Tail">2JRt6nsIm0Sm+VcwQulvbgAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="EQIJ4zzSy0u+ThPHy0Wj8AAA">
-<XPD:ATTR name="Alpha" type="real">-4,71238816012823</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">2</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Selesai Makan Pizza + Bayar Bill</XPD:ATTR>
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
 <XPD:REF name="Model">601ikFX890aUB4SaQGcmxwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="Z8xyBWikv0msXPapFLH10AAA">
@@ -520,9 +520,9 @@
 <XPD:REF name="Head">S129O9mK50GLhiayj5hqTAAA</XPD:REF>
 <XPD:REF name="Tail">XPNMRqr4GE6Qs2pscg+kdgAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="EFpKQ+wUE0e2NKGKULUN/wAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Pembuatan Pizza</XPD:ATTR>
 <XPD:REF name="Model">U2cq0DgKS0WO+CQHwHGrBwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="VyonFhezlk6e0rtOpI4ZSwAA">
@@ -547,9 +547,9 @@
 <XPD:REF name="Head">q9d9hDdm+0as/CjDeW7+JwAA</XPD:REF>
 <XPD:REF name="Tail">S129O9mK50GLhiayj5hqTAAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="B5dzKMFIP0KDSjcMZAibJAAA">
-<XPD:ATTR name="Alpha" type="real">-1,47432223202469</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">31,1448230047949</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Pizza diberikan ke Pelayan</XPD:ATTR>
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
 <XPD:REF name="Model">3y8a8YNh0kOjMXiLm58sVQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="khNt7MqIp0650K38zvJrIwAA">
@@ -574,9 +574,9 @@
 <XPD:REF name="Head">2JRt6nsIm0Sm+VcwQulvbgAA</XPD:REF>
 <XPD:REF name="Tail">q9d9hDdm+0as/CjDeW7+JwAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="6cgFRvsPUkmqtNJ+AIEKWQAA">
-<XPD:ATTR name="Alpha" type="real">-1,5707957385596</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">4</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Pizza + Bill diantarkan</XPD:ATTR>
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
 <XPD:REF name="Model">J9FzVcyno0OejaYUYqYTcQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="kZNKhV7THk2WpovElsVHsAAA">
@@ -601,9 +601,9 @@
 <XPD:REF name="Head">cfZ07qokQkCS0UAq4YUbLQAA</XPD:REF>
 <XPD:REF name="Tail">hU6qA/V20U+gRHCuv2gaGAAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="nmNdYFm4nUmKrmg87er6UQAA">
-<XPD:ATTR name="Alpha" type="real">-1,60019905080031</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">34,0147027033899</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Memilih Menu Lagi</XPD:ATTR>
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
 <XPD:REF name="Model">C01aF5EdukalJrDyNWsNqgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="tC7+sSDOKECSo9xhcBsrNwAA">
@@ -628,9 +628,9 @@
 <XPD:REF name="Head">xKHmI7Yfnk2Wqq2IsEPxlwAA</XPD:REF>
 <XPD:REF name="Tail">cfZ07qokQkCS0UAq4YUbLQAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="q20W4Kx4SUyqIEz3vMj6VwAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Tidak Jadi Membeli</XPD:ATTR>
 <XPD:REF name="Model">7bbhRuHAwEWMQz29+sJvNgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="zMPDadNkBEK5ZQ9tbNkzMgAA">
@@ -716,7 +716,6 @@
 <XPD:REF name="Views[3]">pzFIQPRglU+2jGG0C6lHAwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Transitions[3]" type="UMLTransition" guid="flpZ/JEXsUe8pWvz1GbFqgAA">
-<XPD:ATTR name="Name" type="string">Cek Ketersediaan</XPD:ATTR>
 <XPD:REF name="StateMachine">hPN1xIQP4k2Fn1C9m7F2swAA</XPD:REF>
 <XPD:REF name="Source">c/c3k7QJYkuIXw/QRb1LbAAA</XPD:REF>
 <XPD:REF name="Target">1WVY14DS00m3OhMUSuwWCQAA</XPD:REF>
@@ -727,7 +726,6 @@
 <XPD:REF name="Views[3]">PoLDfBaVKkGA0yXcTN+XKQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Transitions[4]" type="UMLTransition" guid="601ikFX890aUB4SaQGcmxwAA">
-<XPD:ATTR name="Name" type="string">Selesai Makan Pizza + Bayar Bill</XPD:ATTR>
 <XPD:REF name="StateMachine">hPN1xIQP4k2Fn1C9m7F2swAA</XPD:REF>
 <XPD:REF name="Source">J+yKUfXMv0SJo4RKn8B4+gAA</XPD:REF>
 <XPD:REF name="Target">wxWSZWwIWEy4JdPQtiHlvgAA</XPD:REF>
@@ -738,7 +736,6 @@
 <XPD:REF name="Views[3]">cXEuqE4NQ0OQ0qcth1X+BgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Transitions[5]" type="UMLTransition" guid="U2cq0DgKS0WO+CQHwHGrBwAA">
-<XPD:ATTR name="Name" type="string">Pembuatan Pizza</XPD:ATTR>
 <XPD:REF name="StateMachine">hPN1xIQP4k2Fn1C9m7F2swAA</XPD:REF>
 <XPD:REF name="Source">1WVY14DS00m3OhMUSuwWCQAA</XPD:REF>
 <XPD:REF name="Target">QGbcdWyq0k25E/giC815UQAA</XPD:REF>
@@ -749,7 +746,6 @@
 <XPD:REF name="Views[3]">UYo4VNHOOUaQ5gM19EkTPwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Transitions[6]" type="UMLTransition" guid="3y8a8YNh0kOjMXiLm58sVQAA">
-<XPD:ATTR name="Name" type="string">Pizza diberikan ke Pelayan</XPD:ATTR>
 <XPD:REF name="StateMachine">hPN1xIQP4k2Fn1C9m7F2swAA</XPD:REF>
 <XPD:REF name="Source">QGbcdWyq0k25E/giC815UQAA</XPD:REF>
 <XPD:REF name="Target">7y4v5KZ6u0G5rAQXVJQOswAA</XPD:REF>
@@ -760,7 +756,6 @@
 <XPD:REF name="Views[3]">VFFZufsIJkmHyBIK7APTGAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Transitions[7]" type="UMLTransition" guid="J9FzVcyno0OejaYUYqYTcQAA">
-<XPD:ATTR name="Name" type="string">Pizza + Bill diantarkan</XPD:ATTR>
 <XPD:REF name="StateMachine">hPN1xIQP4k2Fn1C9m7F2swAA</XPD:REF>
 <XPD:REF name="Source">7y4v5KZ6u0G5rAQXVJQOswAA</XPD:REF>
 <XPD:REF name="Target">J+yKUfXMv0SJo4RKn8B4+gAA</XPD:REF>
@@ -771,7 +766,6 @@
 <XPD:REF name="Views[3]">NPCPA1KJ40Gs9JRSFMOlZAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Transitions[8]" type="UMLTransition" guid="C01aF5EdukalJrDyNWsNqgAA">
-<XPD:ATTR name="Name" type="string">Memilih Menu Lagi</XPD:ATTR>
 <XPD:REF name="StateMachine">hPN1xIQP4k2Fn1C9m7F2swAA</XPD:REF>
 <XPD:REF name="Source">TK0CfTczykyCxhC2pxnhxAAA</XPD:REF>
 <XPD:REF name="Target">c/c3k7QJYkuIXw/QRb1LbAAA</XPD:REF>
@@ -782,7 +776,6 @@
 <XPD:REF name="Views[3]">Ih3mWBhHNUSgzXRQG7uRmgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Transitions[9]" type="UMLTransition" guid="7bbhRuHAwEWMQz29+sJvNgAA">
-<XPD:ATTR name="Name" type="string">Tidak Jadi Membeli</XPD:ATTR>
 <XPD:REF name="StateMachine">hPN1xIQP4k2Fn1C9m7F2swAA</XPD:REF>
 <XPD:REF name="Source">c/c3k7QJYkuIXw/QRb1LbAAA</XPD:REF>
 <XPD:REF name="Target">wxWSZWwIWEy4JdPQtiHlvgAA</XPD:REF>
