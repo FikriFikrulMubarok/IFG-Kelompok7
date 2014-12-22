@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quis Sambung Peribahasa</string>
+    <string name="action_settings">Settings</string>
+    <string name="menuquis">Menu Quis</string>
+    <string name="pengaturan">Pengaturan</string>
+    <string name="tentang">Tentang</string>
+    <string name="bermain">Bermain</string>
+    <string name="soal">Soal</string>
+    <string name="soalquis">SoalQuis</string>
+    <string name="jawaban">Jawaban</string>
+
+</resources>
